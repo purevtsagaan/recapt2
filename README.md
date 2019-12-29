@@ -1,1 +1,1 @@
-# recapt2
+# recaptcha
